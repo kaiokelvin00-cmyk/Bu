@@ -47,33 +47,6 @@ Os dois algoritmos recebem cópias independentes da mesma lista original. Assim,
 ## Dados de exemplo
 Os registros são fictícios e servem apenas para demonstrar a aplicação. Os valores são ordenados em ordem crescente de preço.
 
-## Atividades extras: GitHub
-
-1. Crie uma conta ou entre em [GitHub](https://github.com/).
-2. Crie um repositório público chamado `atividade-bubble-quick-sort`.
-3. Envie `main.c` e `README.md` ao repositório. Você pode usar a opção **Add file > Upload files**.
-4. Para demonstrar a evolução com commits, faça alterações pequenas e significativas e registre cada etapa com uma mensagem clara, por exemplo:
-   - `Adiciona registros de despesas`
-   - `Implementa Bubble Sort`
-   - `Implementa Quick Sort`
-   - `Documenta execução no README`
-5. Para fazer commits e push pelo terminal, depois de configurar o Git e criar o repositório remoto, use:
-```bash
-git init
-git add main.c README.md
-git commit -m "Adiciona aplicação de ordenação de despesas"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/atividade-bubble-quick-sort.git
-git push -u origin main
-```
-Substitua `SEU-USUARIO` pelo seu nome de usuário e use a URL real do repositório criado. Se fizer tudo pelo site, o GitHub registra commits de envio, mas o histórico de desenvolvimento fica mais bem demonstrado com commits separados durante o trabalho.
-
-## Atividade extra: execução online
-Como este projeto é um programa de terminal em C, não há uma interface web para hospedar como um site estático. Para disponibilizar uma execução funcional, use um compilador online que execute C, como [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) ou [Programiz](https://www.programiz.com/c-programming/online-compiler/). Cole o código de `main.c`, execute e compartilhe o link gerado pela própria plataforma, caso ela ofereça essa opção. Verifique o link em uma janela anônima antes de entregá-lo.
-
-## Entrega
-- `main.c`: código-fonte da aplicação.
-- `README.md`: explicação do problema, execução e algoritmos.
 - Link do repositório GitHub, após criá-lo.
 - Link de execução online, se a plataforma gerar um link compartilhável.
 
