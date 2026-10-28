@@ -41,12 +41,3 @@ Compara valores vizinhos. Quando dois valores estão na ordem errada, troca suas
 ### Quick Sort
 Escolhe um pivô, neste caso o último valor da parte analisada, e particiona o vetor: valores menores ou iguais ao pivô ficam à esquerda e os maiores ficam à direita. Em seguida, aplica recursivamente o mesmo processo nas duas partes. Seu desempenho médio é O(n log n), embora o pior caso seja O(n²).
 
-## Como garantir uma comparação justa
-Os dois algoritmos recebem cópias independentes da mesma lista original. Assim, nenhum deles começa com os dados já ordenados pelo outro.
-
-
-
-- Link do repositório GitHub, após criá-lo.
-- Link de execução online, se a plataforma gerar um link compartilhável.
-
-**Importante:** os links de GitHub e execução precisam ser criados na sua própria conta. Este pacote prepara os arquivos, mas não publica automaticamente nos seus serviços.
