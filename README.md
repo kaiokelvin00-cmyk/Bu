@@ -44,8 +44,7 @@ Escolhe um pivô, neste caso o último valor da parte analisada, e particiona o 
 ## Como garantir uma comparação justa
 Os dois algoritmos recebem cópias independentes da mesma lista original. Assim, nenhum deles começa com os dados já ordenados pelo outro.
 
-## Dados de exemplo
-Os registros são fictícios e servem apenas para demonstrar a aplicação. Os valores são ordenados em ordem crescente de preço.
+
 
 - Link do repositório GitHub, após criá-lo.
 - Link de execução online, se a plataforma gerar um link compartilhável.
